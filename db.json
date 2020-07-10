@@ -1,6 +1,6 @@
 {
   "indo": [
-    { "id": 1, "title": "https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/indosiar.png" },
+    { "id": 1, "title": "https://www.useetv.com/livetv/useeinfo", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/indosiar.png" },
     { "id": 2, "title": "https://cdnbpp1.useetv.com/joss/15/useephoto/chunklist_w330507251_b1344100_sleng_307310.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png" },
     { "id": 3, "title": "https://cdnjt14.useetv.com/joss/15/useeprime/chunklist_w2038021356_b894100_sleng_307392.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rcti.png" },
     { "id": 4, "title": "https://cdnbpp1.useetv.com/joss/14/thrill/chunklist_w1908435488_b684100_sleng_enc=j-4Qzu_q1WzLnzFvI7gExQ.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mnc.png" },
@@ -16,10 +16,10 @@
     { "id": 14, "title": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/berita1.png" },
     { "id": 15, "title": "https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/inews.png" },
     { "id": 16, "title": "https://drive.google.com/uc?id=1TXGn7DfIN8Axo0GTKeJEF9tQLXznnDCz", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
-    { "id": 17, "title": "http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
-    { "id": 18, "title": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/aditv1.png" },
-    { "id": 19, "title": "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mytv.png" },
-    { "id": 20, "title": "http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvku.png" },
+    { "id": 17, "title": "https://www.useetv.com/livetv/muitv", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
+    { "id": 18, "title": "https://m.vidio.com/live/6587-citra-dangdut", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/aditv1.png" },
+    { "id": 19, "title": "https://m.vidio.com/live/6399-zee-bioskop", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mytv.png" },
+    { "id": 20, "title": "https://m.vidio.com/live/6399-zee-bioskop", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvku.png" },
     { "id": 21, "title": "https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/jg.png" },
     { "id": 22, "title": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/ruaitv.png" },
     { "id": 23, "title": "http://persik.tv/stream/3602/287583/10249.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/cnn.png" },
